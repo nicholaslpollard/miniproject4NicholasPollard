@@ -1,0 +1,7 @@
+[
+  {"name": "Ana", "team": "red", "points": 10, "level": 3},
+  {"name": "Ben", "team": "blue", "points": 25, "level": 1},
+  {"name": "Cy", "team": "red", "points": 30, "level": 2},
+  {"name": "Dee", "team": "blue", "points": 40, "level": 3},
+  {"name": "Eve", "team": "red", "points": 55, "level": 1}
+]

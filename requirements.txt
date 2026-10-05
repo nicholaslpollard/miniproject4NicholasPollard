@@ -1,0 +1,3 @@
+# The toolkit itself uses only the Python standard library.
+# pytest is for running the public smoke tests as you build.
+pytest>=8.0

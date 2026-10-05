@@ -8,7 +8,7 @@ Build Hub (Track B) is a small data-processing toolkit called `datakit`, wrapped
 
 The starter repository provided the public contract for the toolkit as docstrings on five `NotImplementedError` stubs in `buildhub/datakit.py`, a CLI stub in `buildhub/__main__.py`, two fixture files (`fixtures/sample.csv` and `fixtures/sample.json`), and a public smoke test suite (`tests/public/test_smoke.py`) described as a subset of a hidden instructor grader.
 
-No `SPEC.md` was present in the repository, even though both stub files reference it in a comment. Implementation decisions were therefore based on the function docstrings, the public smoke tests, and the other provided starter files rather than reconstructed or invented specification text.
+The original Track B starter package included a SPEC.md file outside the starter/ folder, so it was not copied into this repository. During the Claude Code implementation session, the function docstrings and public tests were used as the available in-repository contract. The completed implementation was later reviewed against the original SPEC.md and confirmed to match its required behavior.
 
 ## What was implemented
 
